@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AulaTabView</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_section1">Sleep</string>
+    <string name="title_section2">Controle Multimídia</string>
+    <string name="title_section3">List Rooms</string>
+    <string name="msg_update"> Toque no botão para atualizar a codição do tempo atual</string>
+    <string name="day"> Dia :</string>
+    <string name="date"> Data :</string>
+    <string name="msg_min"> Temp. Min :</string>
+    <string name="msg_max"> Temp. Max :</string>
+    
+
+</resources>
